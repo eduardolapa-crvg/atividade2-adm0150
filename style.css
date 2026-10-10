@@ -86,3 +86,5 @@ table.audit td:nth-child(2){min-width:220px} table.audit td:last-child{min-width
 .wrap-pre{white-space:pre-wrap;word-wrap:break-word;font:.86rem/1.6 "JetBrains Mono",monospace;margin:0}
 .pdfview{width:100%;height:80vh;border:1px solid var(--line);border-radius:8px}
 .foot{color:var(--muted);font-size:.82rem;padding-top:2rem;padding-bottom:2rem;border-top:1px solid var(--line);margin-top:3rem}
+.mine{margin:.2rem 0 .6rem;max-width:75ch}
+td .mine{margin:0;font-size:.9rem}
